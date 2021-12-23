@@ -21,7 +21,7 @@ class _UserDetailGetterState extends State<UserDetailGetter> {
 
   List<int> _semester = [1, 2, 3, 4, 5, 6, 7, 8];
 
-  List<int> _batches = [2020, 2019, 2018, 2017, 2016];
+  List<int> _batches = [2021,2020, 2019, 2018, 2017, 2016];
 
   @override
   void initState() {
